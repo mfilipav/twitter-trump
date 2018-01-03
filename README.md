@@ -2,6 +2,7 @@
 
 ## What are the most common hashtags and mentions since October 2016? 
    Count      Hashtag (#)
+   
    81   ---   draintheswamp       
    74   ---   maga                
    31   ---   debate              
@@ -17,6 +18,7 @@
    11   ---   hurricaneharvey     
  
    Count      Mention (@)
+   
    89   ---   foxandfriends       
    87   ---   realDonaldTrump     
    53   ---   WhiteHouse          
