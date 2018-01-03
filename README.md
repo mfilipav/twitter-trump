@@ -1,7 +1,7 @@
 # Trump's Twitter feed analysis [project in progress]
 
 ## What are the most common hashtags and mentions since October 2016? 
-   Count      Hashtag (#)
+   Count    Hashtag (#)
    
    81   ---   draintheswamp       
    74   ---   maga                
@@ -17,7 +17,7 @@
    12   ---   thankyoutour2016    
    11   ---   hurricaneharvey     
  
-   Count      Mention (@)
+   Count    Mention (@)
    
    89   ---   foxandfriends       
    87   ---   realDonaldTrump     
