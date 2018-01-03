@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3989,
+                    52.5006
+                ]
+            },
+            "properties": {
+                "text": "Link sketch for Janine \ud83d\udc9d I\u2019ve been told he looks pretty Eastern European #link #zelda\u2026 https://t.co/BhK35JJ7L3",
+                "created_at": "Wed Jan 03 12:51:05 +0000 2018"
+            }
+        }
+    ]
+}
